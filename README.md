@@ -2,8 +2,6 @@
 
 This project converts a Figma design into a responsive website using React and the Carbon Design System. It features a clean, professional design for the American Honey Show Training Council with dark and light theme options.
 
-![AHSTC Website Preview](public/website-preview.png)
-
 ## Live Demo
 
 Check out the live demo of the website: [AHSTC Website](https://imaginative-panda-a3264f.netlify.app/)
