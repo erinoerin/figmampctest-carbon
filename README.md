@@ -4,6 +4,10 @@ This project converts a Figma design into a responsive website using React and t
 
 ![AHSTC Website Preview](public/website-preview.png)
 
+## Live Demo
+
+Check out the live demo of the website: [AHSTC Website](https://imaginative-panda-a3264f.netlify.app/)
+
 ## Table of Contents
 
 - [Overview](#overview)
